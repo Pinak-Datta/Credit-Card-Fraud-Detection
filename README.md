@@ -10,3 +10,5 @@ If the trannsaction is legit, it is labelled as '0', else, if the transaction is
 The Accuracy Score on the Training dataset was : 0.9415501905972046
 
 And, the Accuracy Score on the Testing dataset was : 0.9390862944162437
+
+Any sort of improvement Pull requests are heartily welcome.
